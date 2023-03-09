@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[User hits URL on Firefox]]>
+    </line>
+    <line>
+      <![CDATA[Maximize the screen]]>
+    </line>
+    <line>
+      <![CDATA[User clicks on Login Link from Home Screen]]>
+    </line>
+    <line>
+      <![CDATA[Enter email Addres : planittest78@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Enters Password : 123456]]>
+    </line>
+    <line>
+      <![CDATA[Click on Login Button]]>
+    </line>
+    <line>
+      <![CDATA[User has succesfully logged in with email Address planittest78@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Total Rows in excel 1]]>
+    </line>
+    <line>
+      <![CDATA[Total Columns in excel 11]]>
+    </line>
+    <line>
+      <![CDATA[User logins to Application and is on Home Screen]]>
+    </line>
+    <line>
+      <![CDATA[Shop cart is Empty. Can continue Shopping !!]]>
+    </line>
+    <line>
+      <![CDATA[Click on Desktops from Computers Panel]]>
+    </line>
+    <line>
+      <![CDATA[Available Desktops : [Build your own cheap computer, Build your own computer, Build your own expensive computer, Simple Computer]]]>
+    </line>
+    <line>
+      <![CDATA[Please select desired one from available items]]>
+    </line>
+    <line>
+      <![CDATA[User selects Build your own expensive computer from available items]]>
+    </line>
+    <line>
+      <![CDATA[Choose available features for wishlist Product and proceed to Payment Screen]]>
+    </line>
+    <line>
+      <![CDATA[ User selects Processor - Medium]]>
+    </line>
+    <line>
+      <![CDATA[ User selects RAM - 4GB]]>
+    </line>
+    <line>
+      <![CDATA[ User selects HDD - 320 GB]]>
+    </line>
+    <line>
+      <![CDATA[ User selects Software - Image Viewer]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is 1800.00]]>
+    </line>
+    <line>
+      <![CDATA[User increases quantity to 3]]>
+    </line>
+    <line>
+      <![CDATA[Add the Product to cart]]>
+    </line>
+    <line>
+      <![CDATA[Product has been added to cart successfully without any issue ]]>
+    </line>
+    <line>
+      <![CDATA[User is on Checkout Page]]>
+    </line>
+    <line>
+      <![CDATA[User selects Billing Address New Address]]>
+    </line>
+    <line>
+      <![CDATA[Field First name entered as Planit]]>
+    </line>
+    <line>
+      <![CDATA[Field Last name entered as Test]]>
+    </line>
+    <line>
+      <![CDATA[Field Email entered as planittest78@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Field Company entered as Planit Technologies Ltd]]>
+    </line>
+    <line>
+      <![CDATA[Field Country entered as Canada]]>
+    </line>
+    <line>
+      <![CDATA[Field State entered as Ontario]]>
+    </line>
+    <line>
+      <![CDATA[Field City entered as Toronto]]>
+    </line>
+    <line>
+      <![CDATA[Field Address 1 entered as 1562 Sheppard Ave]]>
+    </line>
+    <line>
+      <![CDATA[Field Address 2 entered as MST 1 4]]>
+    </line>
+    <line>
+      <![CDATA[Field Zip entered as 416868]]>
+    </line>
+    <line>
+      <![CDATA[Field Phone number entered as 1098765432]]>
+    </line>
+    <line>
+      <![CDATA[Select Shipment Type as - Next Day Air]]>
+    </line>
+    <line>
+      <![CDATA[Select Shipment Type as - Cash On Delivery]]>
+    </line>
+    <line>
+      <![CDATA[Payment Method type is displayed - You will pay by COD]]>
+    </line>
+    <line>
+      <![CDATA[Order has been placed succesfully with Order number: 1391288]]>
+    </line>
+    <line>
+      <![CDATA[User naviagted back to Home Screen !]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-09T23:12:28 IST" name="WebShop Automation" finished-at="2023-03-09T23:13:16 IST" duration-ms="47971">
+    <groups>
+    </groups>
+    <test started-at="2023-03-09T23:12:28 IST" name="TestCase to validate order purchased" finished-at="2023-03-09T23:13:16 IST" duration-ms="47971">
+      <class name="testcases.TestCase_validatePurchaseOrder">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TestCase_validatePurchaseOrder@29215f06]" started-at="2023-03-09T23:12:28 IST" name="setup" finished-at="2023-03-09T23:12:37 IST" duration-ms="9418" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[planittest78@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User hits URL on Firefox]]>
+            </line>
+            <line>
+              <![CDATA[Maximize the screen]]>
+            </line>
+            <line>
+              <![CDATA[User clicks on Login Link from Home Screen]]>
+            </line>
+            <line>
+              <![CDATA[Enter email Addres : planittest78@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Enters Password : 123456]]>
+            </line>
+            <line>
+              <![CDATA[Click on Login Button]]>
+            </line>
+            <line>
+              <![CDATA[User has succesfully logged in with email Address planittest78@gmail.com]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateOrderPurchased(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TestCase_validatePurchaseOrder@29215f06]" started-at="2023-03-09T23:12:38 IST" name="validateOrderPurchased" data-provider="BillingAddress" finished-at="2023-03-09T23:13:14 IST" duration-ms="35548" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Planit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[planittest78@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Planit Technologies Ltd]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Ontario]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Toronto]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1562 Sheppard Ave]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[MST 1 4]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[416868]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[1098765432]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User logins to Application and is on Home Screen]]>
+            </line>
+            <line>
+              <![CDATA[Shop cart is Empty. Can continue Shopping !!]]>
+            </line>
+            <line>
+              <![CDATA[Click on Desktops from Computers Panel]]>
+            </line>
+            <line>
+              <![CDATA[Available Desktops : [Build your own cheap computer, Build your own computer, Build your own expensive computer, Simple Computer]]]>
+            </line>
+            <line>
+              <![CDATA[Please select desired one from available items]]>
+            </line>
+            <line>
+              <![CDATA[User selects Build your own expensive computer from available items]]>
+            </line>
+            <line>
+              <![CDATA[Choose available features for wishlist Product and proceed to Payment Screen]]>
+            </line>
+            <line>
+              <![CDATA[ User selects Processor - Medium]]>
+            </line>
+            <line>
+              <![CDATA[ User selects RAM - 4GB]]>
+            </line>
+            <line>
+              <![CDATA[ User selects HDD - 320 GB]]>
+            </line>
+            <line>
+              <![CDATA[ User selects Software - Image Viewer]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is 1800.00]]>
+            </line>
+            <line>
+              <![CDATA[User increases quantity to 3]]>
+            </line>
+            <line>
+              <![CDATA[Add the Product to cart]]>
+            </line>
+            <line>
+              <![CDATA[Product has been added to cart successfully without any issue ]]>
+            </line>
+            <line>
+              <![CDATA[User is on Checkout Page]]>
+            </line>
+            <line>
+              <![CDATA[User selects Billing Address New Address]]>
+            </line>
+            <line>
+              <![CDATA[Field First name entered as Planit]]>
+            </line>
+            <line>
+              <![CDATA[Field Last name entered as Test]]>
+            </line>
+            <line>
+              <![CDATA[Field Email entered as planittest78@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Field Company entered as Planit Technologies Ltd]]>
+            </line>
+            <line>
+              <![CDATA[Field Country entered as Canada]]>
+            </line>
+            <line>
+              <![CDATA[Field State entered as Ontario]]>
+            </line>
+            <line>
+              <![CDATA[Field City entered as Toronto]]>
+            </line>
+            <line>
+              <![CDATA[Field Address 1 entered as 1562 Sheppard Ave]]>
+            </line>
+            <line>
+              <![CDATA[Field Address 2 entered as MST 1 4]]>
+            </line>
+            <line>
+              <![CDATA[Field Zip entered as 416868]]>
+            </line>
+            <line>
+              <![CDATA[Field Phone number entered as 1098765432]]>
+            </line>
+            <line>
+              <![CDATA[Select Shipment Type as - Next Day Air]]>
+            </line>
+            <line>
+              <![CDATA[Select Shipment Type as - Cash On Delivery]]>
+            </line>
+            <line>
+              <![CDATA[Payment Method type is displayed - You will pay by COD]]>
+            </line>
+            <line>
+              <![CDATA[Order has been placed succesfully with Order number: 1391288]]>
+            </line>
+            <line>
+              <![CDATA[User naviagted back to Home Screen !]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateOrderPurchased -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TestCase_validatePurchaseOrder@29215f06]" started-at="2023-03-09T23:13:14 IST" name="tearDown" finished-at="2023-03-09T23:13:16 IST" duration-ms="2043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TestCase_validatePurchaseOrder -->
+    </test> <!-- TestCase to validate order purchased -->
+  </suite> <!-- WebShop Automation -->
+</testng-results>
